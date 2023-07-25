@@ -1,0 +1,6 @@
+pandas
+numpy
+seaborn
+flask
+-e .
+#to trigger setup.py, we write '-e .' 
