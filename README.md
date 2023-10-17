@@ -5,7 +5,12 @@
 ### Create an Environment
 
 ```
-conda create -p venv python==3.8
+conda create -p venv python=3.8
+
+
+
+
+conda activate venv/
 ```
 
 ### Install All required libraries
